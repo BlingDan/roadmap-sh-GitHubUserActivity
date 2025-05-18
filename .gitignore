@@ -1,0 +1,13 @@
+# Ignore editor-specific files
+.vscode/
+
+# Ignore Python-specific files
+__pycache__/
+*.pyc
+*.log
+.venv/
+dist/
+build/
+
+# Ignore JSON files
+*.json
